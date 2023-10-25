@@ -58,9 +58,14 @@ Please follow the instructions for run the test case for the code
     ```
     cd playwright_plus
     ```
-   
+      
 9. Run the python file test.py by following command
 
     ```
     python test.py
+    ```
+
+10. Please read the playwright_plus.pdf 
+    ```
+    https://github.com/Gyan1985/playwright_plus_test/blob/master/playwright_plus.pdf
     ```
