@@ -27,7 +27,7 @@ Please follow the instructions for run the test case for the code
 3. Take clone of the repository using the following command:
 
    ```
-   git clone https://github.com/
+   git clone https://github.com/Gyan1985/playwright_plus_test.git
    ```
 
 4. Activate the virtual environment using the command:
